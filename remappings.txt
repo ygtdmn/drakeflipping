@@ -1,0 +1,7 @@
+@openzeppelin/contracts/=node_modules/@openzeppelin/contracts/
+@openzeppelin/contracts-upgradeable/=node_modules/@openzeppelin/contracts-upgradeable/
+forge-std/=node_modules/forge-std/
+@uniswap/=node_modules/@uniswap/
+@manifoldxyz/=node_modules/@manifoldxyz/
+@ensdomains/=node_modules/@ensdomains/
+solady/=node_modules/solady/
